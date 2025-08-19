@@ -14,11 +14,11 @@ The system runs on a **Raspberry Pi** with a connected camera, ultrasonic sensor
 ---
 
 ##  Features
-- 🎥 **Camera Controls**: Capture normal or HDR photos, start/stop video recording.
-- 🎶 **Music Controls**: Play, pause, resume, next, and previous track using gestures.
-- 🎤 **Voice Commands**: Trigger photo capture, HDR photo, or video recording via speech recognition.
-- 📡 **Ultrasonic Sensor**: Enables context-aware activation based on user distance. 
-- 🔊 **Voice Feedback**: Real-time audio prompts using TTS (pyttsx3, gTTS). 
+-  **Camera Controls**: Capture normal or HDR photos, start/stop video recording.
+-  **Music Controls**: Play, pause, resume, next, and previous track using gestures.
+-  **Voice Commands**: Trigger photo capture, HDR photo, or video recording via speech recognition.
+-  **Ultrasonic Sensor**: Enables context-aware activation based on user distance. 
+-  **Voice Feedback**: Real-time audio prompts using TTS (pyttsx3, gTTS). 
 
 ---
 
